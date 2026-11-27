@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-IOS-Utilities-Mobile-Container-Storage/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IOS-Utilities-Mobile-Container-Storage?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-IOS-Utilities-Mobile-Container-Storage/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IOS-Utilities-Mobile-Container-Storage?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-IOS-Utilities-Mobile-Container-Storage/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-IOS-Utilities-Mobile-Container-Storage?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-IOS-Utilities-Mobile-Container-Storage/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-IOS-Utilities-Mobile-Container-Storage?style=flat-square&color=success" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,7 +65,7 @@ Commercial, cloud-hosted iOS build pipelines, proprietary sideloading services, 
 
 ## 🔓 Open-Source Equivalents & Utilities
 
-Free and open-source software (FOSS) iOS container utilities, open-source IPA signers, libimobiledevice protocols, self-hosted OTA servers, and macOS/iOS CI runners. Each category is ranked in descending order by community star counts.
+Free and open-source software (FOSS) iOS container utilities, open-source IPA signers, libimobiledevice protocols, self-hosted OTA servers, and macOS/iOS CI runners. Each category is ranked in descending order by community Stars_Counts.
 
 ### 📦 Mobile Container Storage & Local iOS Utilities
 
